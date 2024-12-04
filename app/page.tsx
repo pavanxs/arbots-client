@@ -3,9 +3,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { 
   Users, 
-  MessageCircle, 
   Coins, 
-  TrendingUp,
   Bot,
   Activity 
 } from "lucide-react"
